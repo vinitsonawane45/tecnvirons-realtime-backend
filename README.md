@@ -134,7 +134,7 @@ If this command fails, do **not** move forward until the error is fixed.
 
 #### 1. Launch the Client
 
-Open the provided `chat_client.html` file in any modern browser (Chrome, Edge, Firefox).
+Open the provided `index.html` file in any modern browser (Chrome, Edge, Firefox).
 
 ---
 
