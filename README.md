@@ -74,6 +74,10 @@ create table if not exists session_events (
   content text,
   created_at timestamptz default now()
 );
+
+---
+
+
 ## 3. Instructions on How to Run and Test
 
 ### Running the Server
